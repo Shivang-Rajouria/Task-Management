@@ -1,4 +1,4 @@
-DEMO LINK - https://sage-sunburst-b10726.netlify.app/signup
+DEMO LINK - https://sage-sunburst-b10726.netlify.app/
 
 Task-Tracker - A subtle task management app built with MERN (MongoDB, Expressjs, React.js, Node.js) that lets users create, read , update and delete tasks Features->
 
